@@ -20,3 +20,5 @@
 
 ## Notas
 ### Para el desarrollo del front se usó ViteJS
+### El usuario admin tiene como username "admin1" y como password "admin10"
+### Todos los demas usuarios tiene como contraseña "contraseña123"
